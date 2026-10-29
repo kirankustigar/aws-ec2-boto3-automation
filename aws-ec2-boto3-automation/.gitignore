@@ -1,0 +1,9 @@
+# Python generated files
+__pycache__/
+*.pyc
+
+# AWS credentials or local configs (Never push keys!)
+.aws/
+credentials
+*.pem
+*.vmdk
